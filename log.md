@@ -52,3 +52,23 @@ My only concerns is that by comitting to this path I am just finding ways to avo
 Regardless, I do enjoy the course.
 
 **Link(s) to work**: [How Does the Web Work?](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+
+### Day 1: Mon Jan 13, 2025
+
+**Today's Progress**: Sprinted through more odin project articles on the foundations, still very basic. Applied relatively aggressively to jobs today
+
+**Thoughts**: While this is fairly basic, it was a good refresher and it is important to lay a foundational understanding of what I am trying to achieve. I really like The Odin Project. My goal is to stick with these lessons until the end. It truly is a resource compiling all the "how i wish i learned development". This is a great community.
+
+My only concerns is that by comitting to this path I am just finding ways to avoid giving my all, searching for jobs. I have developed applications, multiple full-stack applications. I feel like I need to face my confidence issues and just put myself on the market and apply.
+
+Regardless, I do enjoy the course.
+
+**Link(s) to work**:
+
+### Day 2: Mon Jan XX, 2025
+
+**Today's Progress**: more information on git basics
+
+**Thoughts**: a little slower on progress today, procrastincation is something that I really have to get a better handle on. Try to be a little better than yesterday every single day. Aim for constant improvement.
+
+**Link(s) to work**:
